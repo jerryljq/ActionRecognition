@@ -1,5 +1,9 @@
 # Action Recognition
 
+TODO: 
+clear up the all files and rerun the training procedure
+put a simple picture showing the result
+
 ### Overall Objective:
 
 - Try different models for action recognition using data from [UCF-101](http://crcv.ucf.edu/data/UCF101.php) 
